@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc53d674.chunk.css",
-    "main.js": "/static/js/main.382e23a1.chunk.js",
-    "main.js.map": "/static/js/main.382e23a1.chunk.js.map",
+    "main.css": "/static/css/main.cf209862.chunk.css",
+    "main.js": "/static/js/main.a1454d00.chunk.js",
+    "main.js.map": "/static/js/main.a1454d00.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1ad4c9c6.js",
     "runtime-main.js.map": "/static/js/runtime-main.1ad4c9c6.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.0b387dab.chunk.js": "/static/js/2.0b387dab.chunk.js",
-    "static/js/2.0b387dab.chunk.js.map": "/static/js/2.0b387dab.chunk.js.map",
+    "static/js/2.4dc8e994.chunk.js": "/static/js/2.4dc8e994.chunk.js",
+    "static/js/2.4dc8e994.chunk.js.map": "/static/js/2.4dc8e994.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.bc53d674.chunk.css.map": "/static/css/main.bc53d674.chunk.css.map",
-    "static/js/2.0b387dab.chunk.js.LICENSE.txt": "/static/js/2.0b387dab.chunk.js.LICENSE.txt",
+    "static/css/main.cf209862.chunk.css.map": "/static/css/main.cf209862.chunk.css.map",
+    "static/js/2.4dc8e994.chunk.js.LICENSE.txt": "/static/js/2.4dc8e994.chunk.js.LICENSE.txt",
     "static/media/720HD.f6eb5818.mp4": "/static/media/720HD.f6eb5818.mp4",
     "static/media/page.css": "/static/media/Kiona-Regular.743f23a1.ttf",
     "static/media/audio.1c0c88aa.jpg": "/static/media/audio.1c0c88aa.jpg",
@@ -20,13 +20,14 @@
     "static/media/jt-visuals.554b1516.gif": "/static/media/jt-visuals.554b1516.gif",
     "static/media/logo.8d0a9383.png": "/static/media/logo.8d0a9383.png",
     "static/media/portrait.b38f7668.png": "/static/media/portrait.b38f7668.png",
-    "static/media/vfx.b016defd.jpg": "/static/media/vfx.b016defd.jpg"
+    "static/media/vfx.b016defd.jpg": "/static/media/vfx.b016defd.jpg",
+    "static/media/watchreel.6a11ad70.jpg": "/static/media/watchreel.6a11ad70.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1ad4c9c6.js",
     "static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.0b387dab.chunk.js",
-    "static/css/main.bc53d674.chunk.css",
-    "static/js/main.382e23a1.chunk.js"
+    "static/js/2.4dc8e994.chunk.js",
+    "static/css/main.cf209862.chunk.css",
+    "static/js/main.a1454d00.chunk.js"
   ]
 }
